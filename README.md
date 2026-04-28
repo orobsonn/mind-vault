@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/orobsonn-segundo-cerebro-badge.png)](https://mseep.ai/app/orobsonn-segundo-cerebro)
+
 # Segundo Cérebro — um grafo de conhecimento pessoal pro Claude, rodando no Cloudflare
 
 ![Segundo Cérebro em ação](docs/media/tela-gravacao.gif)
